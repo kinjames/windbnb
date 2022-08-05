@@ -1,26 +1,7 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Windbnb}</h1>
+<h1 align="center">Windbnb</h1>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
-      Challenge
-    </a>
-  </h3>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -46,13 +27,14 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/desktop-design.jpg)
-![Mobile Design](./design/mobile-design.jpg)
+![Desktop Design](/images/desktop.png)
+![Mobile Design](/images/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/manage-landing-page-ByF2inAJqe)
-- Live Site URL: [Github](https://kinjames.github.io/manage-landing-page/)
+- Solution URL: [Frontend Mentor](https://github.com/kinjames/windbnb)
+- Live Site URL: [Github](https://kinjames.github.io/windbnb/)
+- Challenge URL: [DevChallenges](https://devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD)
 
 ## My process
 
@@ -61,7 +43,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Scss
-- CSS Grid
 - Flexbox
 - JavaScript
 
